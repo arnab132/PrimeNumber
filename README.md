@@ -1,4 +1,4 @@
-# Prime Number implementation using Python
+# Prime Number Implementation using Python
 
 A positive integer greater than 1 which has no other factors except 1 and the number itself is called a prime number.
 
